@@ -22,7 +22,7 @@
 
 ### 主界面 - 代码高亮与数学公式
 
-![主界面](./screenshots/screenshot-1.png)
+![主界面](./screenshots/screenshot-1.jpeg)
 
 *支持代码高亮、数学公式（KaTeX）、表格、多种 Markdown 语法*
 
@@ -30,7 +30,7 @@
 
 ### Mermaid 图表支持
 
-![Mermaid 图表](./screenshots/screenshot-2.png)
+![Mermaid 图表](./screenshots/screenshot-2.jpeg)
 
 *支持流程图、序列图、饼图等多种图表类型*
 
