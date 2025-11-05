@@ -1,6 +1,32 @@
 # 📝 Markdown 编辑器
 
+<div align="center">
+
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6.0.3-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node-%3E%3D16-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/Markdown-Supported-000000?style=flat-square&logo=markdown)
+![KaTeX](https://img.shields.io/badge/KaTeX-Math-008080?style=flat-square)
+![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-FF3670?style=flat-square&logo=mermaid)
+![Code](https://img.shields.io/badge/Code-Highlight-F7DF1E?style=flat-square)
+
+</div>
+
 一个功能强大的 Web Markdown 编辑器，支持实时预览、代码高亮、数学公式、Mermaid 图表等功能。
+
+## 📸 预览截图
+
+<div align="center">
+
+*运行项目后，这里可以添加应用截图*
+
+**主界面** | **实时预览** | **代码高亮**
+:---:|:---:|:---:
+支持左右双栏编辑 | 同步滚动预览 | 多语言语法高亮
+
+</div>
 
 ## ✨ 功能特性
 
@@ -257,6 +283,12 @@ MIT License
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
+如果这个项目对您有帮助，请给它一个 ⭐ Star！
+
+[![GitHub stars](https://img.shields.io/github/stars/Coldplay-now/markdown-editor?style=social)](https://github.com/Coldplay-now/markdown-editor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Coldplay-now/markdown-editor?style=social)](https://github.com/Coldplay-now/markdown-editor/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Coldplay-now/markdown-editor)](https://github.com/Coldplay-now/markdown-editor/issues)
 
 ## 💡 使用技巧
 
